@@ -1,4 +1,9 @@
-### Hi there 👋
+### About Me (WIP)
+
+- 4th year Undergrad @BostonUniversity
+- Physics + Stats major
+- Interested in deep learning, NLP, quant finance and philosophy of science
+- Hobbies: Basketball, biking, photography
 
 <!--
 **ryanznie/ryanznie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
