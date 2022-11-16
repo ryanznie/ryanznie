@@ -5,6 +5,8 @@
 - Interested in deep learning, NLP, quant finance and philosophy of science
 - Hobbies: Basketball, biking, photography
 
+Let's connect! <br>
+Email: [ryanznie@gmail.com](ryanznie@gmail.com) | LinkedIn: [in/ryanznie](https://www.linkedin.com/in/ryanznie/)
 <!--
 **ryanznie/ryanznie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
