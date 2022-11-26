@@ -6,7 +6,7 @@
 - Hobbies: Basketball, biking, photography
 
 Let's connect! <br>
-Email: <ryanznie@gmail.com> | LinkedIn: [in/ryanznie](https://www.linkedin.com/in/ryanznie/)
+Email: [ryanznie at bu dot edu](mailto:ryanznie@bu.edu) | LinkedIn: [in/ryanznie](https://www.linkedin.com/in/ryanznie/)
 <!--
 **ryanznie/ryanznie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
