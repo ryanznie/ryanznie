@@ -2,7 +2,7 @@
 
 - 4th year Undergrad @BostonUniversity
 - Physics + Stats major
-- Interested in deep learning, NLP, quant finance and philosophy of science
+- Interested in deep learning, NLP, physics, quant finance and philosophy of science
 - Hobbies: Basketball, biking, photography
 
 Let's connect! <br>
