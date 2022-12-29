@@ -3,7 +3,8 @@
 - 4th year Undergrad @BostonUniversity
 - Physics + Stats major
 - Interested in deep learning, NLP, physics, quant finance and philosophy of science
-- Hobbies: Basketball, biking, photography
+- Also enjoy playing basketball, biking, and taking photographs:)
+- Currently learning some computer vision techniques...
 
 Let's connect! <br>
 Email: [ryanznie [at] bu [dot] edu](mailto:ryanznie@bu.edu) | LinkedIn: [in/ryanznie](https://www.linkedin.com/in/ryanznie/)
