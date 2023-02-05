@@ -1,9 +1,11 @@
-### About Me (WIP)
+### About Me
 
 - 4th year Undergrad @BostonUniversity
 - Physics + Stats major
-- Interested in deep learning, NLP, physics, quant finance and philosophy of science
+- Interested in ML applications in physics, NLP, quant finance and philosophy of science
 - Also enjoy playing basketball, biking, and taking photographs:)
+
+Currently working on anomaly detection in CERN data, projects within my quant team, and planning for a [datathon](https://github.com/budatasci/deep-learning-workshop)
 
 Let's connect! <br>
 Email: [ryanznie [at] bu [dot] edu](mailto:ryanznie@bu.edu) | LinkedIn: [in/ryanznie](https://www.linkedin.com/in/ryanznie/)
