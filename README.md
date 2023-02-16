@@ -5,7 +5,7 @@
 - Interested in ML applications in physics, NLP, quant finance and philosophy of science
 - Also enjoy playing basketball, biking, and taking photographs:)
 
-Currently working on [anomaly detection](https://github.com/AutoDQM/AutoDQM_ML) for CERN data, projects within my quant team, and planning for a [datathon](https://github.com/budatasci/deep-learning-workshop)
+Currently working on [anomaly detection](https://github.com/AutoDQM/AutoDQM_ML) for CERN data, [face aging GANs](https://github.com/BU-Spark/ml-atfal-mafkoda-missing-children) for finding missing children, and planning for a [datathon](https://github.com/budatasci/deep-learning-workshop).
 
 Let's connect! <br>
 Email: [ryanznie [at] bu [dot] edu](mailto:ryanznie@bu.edu) | LinkedIn: [in/ryanznie](https://www.linkedin.com/in/ryanznie/)
