@@ -1,6 +1,6 @@
-### About Me (WIP)
+### About Me
 
-- 4th year Undergrad @BostonUniversity
+- 4th year Undergrad @BostonU
 - Physics + Stats major
 - Interested in ML applications in physics, NLP, quant finance and philosophy of science
 - Also enjoy playing basketball, biking, and taking photographs:)
