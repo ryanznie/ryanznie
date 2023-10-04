@@ -5,7 +5,7 @@
 - Interested in ML applications in physics, NLP, quant finance and philosophy of science
 - Also enjoy playing basketball, biking, and taking photographs:)
 
-I am currently working on [anomaly detection](https://github.com/AutoDQM/AutoDQM_ML) for CERN experiments, and a [CLI tool](https://github.com/ryanznie/quant-MC-methods) for predicting stock prices using Monte Carlo methods. Some of my recent projects include [face aging GANs](https://github.com/BU-Spark/ml-atfal-mafkoda-missing-children) for finding missing children, and planning for a [datathon](https://www.data4sustainability.com/).
+I am currently working on [anomaly detection](https://github.com/AutoDQM/AutoDQM_ML) for CERN experiments, and a [CLI tool](https://github.com/ryanznie/quant-MC-methods) for predicting stock prices using Monte Carlo methods. Some of my recent projects include [face aging GANs](https://github.com/BU-Spark/ml-atfal-mafkoda-missing-children) for finding missing children, and planning for a [datathon](https://www.data4sustainability.com/). I also lead [BUAlpha](https://github.com/bualpha), a quantitative research team at Boston University.
 
 Let's connect! <br>
 Email: ryanznie [at] bu [dot] edu | LinkedIn: [in/ryanznie](https://www.linkedin.com/in/ryanznie/)
