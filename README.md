@@ -1,7 +1,7 @@
 ### About Me
 
 - 4th year Undergrad @BostonU
-- Physics + Stats major
+- Physics + Stats major, CS minor
 - Currently interested in ML applications in physics and [LLM capabilities](https://github.com/ryanznie/AI-Journey)
 - When I am not doing Physics/DS/ML, I enjoy thinking about quant finance and various topics in philosophy
 - For fun, I like playing basketball, biking, and taking photographs:)
