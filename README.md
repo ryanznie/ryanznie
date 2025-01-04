@@ -1,6 +1,6 @@
 ### About Me
 
-- Physics + Stats, CS minor @BostonU, MS CS @GT
+- Physics + Stats @BostonU, MS CS @GT
 - Currently interested in ML applications in physics / finance and [LLM capabilities](https://github.com/ryanznie/AI-Journey)
 - When I am not doing DS / ML, I enjoy thinking about quant finance and various topics in philosophy
 - For fun, I like playing basketball, biking, and taking photographs:)
