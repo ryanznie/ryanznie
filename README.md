@@ -5,9 +5,9 @@
 - At times, I enjoy thinking about quant finance and various topics in philosophy
 - For fun, I like playing basketball, cooking, and taking photography
 
-I am currently exploring classical AI methods for [ARC-AGI](https://arcprize.org/arc) problems. More recently, I worked on [anomaly detection](https://arxiv.org/abs/2501.13789) for large physics experiments and competed in an [AI Math Olympiad](https://www.kaggle.com/competitions/ai-mathematical-olympiad-prize) on Kaggle. I am also trying to learn how to write better. Here are some of my [blogs](https://ryanznie.github.io/blog.html) on AI and why humans do things.
+I am currently exploring classical AI methods for [ARC-AGI](https://arcprize.org/arc) problems. More recently, I worked on [anomaly detection](https://arxiv.org/abs/2501.13789) for large physics experiments and competed in an [AI Math Olympiad](https://www.kaggle.com/competitions/ai-mathematical-olympiad-prize). I am also learning how to pre-write, write, and rewrite about [tech, humans vs AI](https://ryanznie.substack.com/).
 
-Some of my other previous projects include [face aging GANs](https://github.com/BU-Spark/ml-atfal-mafkoda-missing-children) for finding missing children and an [object detection prototype](https://github.com/ryanznie/eLab-Object-Classification) for identifying fruits in real time. I also previously ran [physics experiments](https://github.com/ryanznie/adlab-experiments) at BU Physics's Advanced Laboratory and led [BUAlpha](https://github.com/bualpha), a quantitative research team at Boston University.
+Previously, I pursued my dream of being a [physicist](https://github.com/ryanznie/adlab-experiments) at BU's Advanced Physics Lab and led [BUAlpha](https://github.com/bualpha), a quantitative research team at Boston University.
 
 **Let's connect!** <br>
 Email: ryanznie [at] gatech [dot] edu \
