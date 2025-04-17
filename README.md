@@ -5,7 +5,7 @@
 - At times, I enjoy thinking about quant finance and various topics in philosophy
 - For fun, I like playing basketball, cooking, and taking photography
 
-I am currently exploring classical AI methods for [ARC-AGI](https://arcprize.org/arc) problems. More recently, I worked on [anomaly detection](https://arxiv.org/abs/2501.13789) for large physics experiments and competed in an [AI Math Olympiad](https://www.kaggle.com/competitions/ai-mathematical-olympiad-prize). I am also learning how to pre-write, write, and rewrite about [tech, humans vs AI](https://ryanznie.substack.com/).
+I am currently exploring classical AI methods for solving [ARC-AGI](https://arcprize.org/arc) problems. More recently, I worked on [anomaly detection](https://arxiv.org/abs/2501.13789) for large physics experiments and competed in an [AI Math Olympiad](https://www.kaggle.com/competitions/ai-mathematical-olympiad-prize). I am also learning how to pre-write, write, and rewrite about [tech, humans vs AI](https://ryanznie.substack.com/).
 
 Previously, I pursued my dream of being a [physicist](https://github.com/ryanznie/adlab-experiments) at BU's Advanced Physics Lab and led [BUAlpha](https://github.com/bualpha), a quantitative research team at Boston University.
 
