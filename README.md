@@ -1,8 +1,8 @@
 ### About Me
 
-*I am a Data Scientist working on NLP / GenAI. Maybe a physicist in another life.*
+*I am an data scientist / engineer working on LLMs and GenAI. Maybe a physicist in another life.*
 - I am currently invested in state-of-the-art [LLM capabilities](https://github.com/ryanznie/AI-Journey)
-- At times, I enjoy thinking about quant finance and various topics in philosophy
+- At times, I enjoy thinking about problems in quant finance and various topics in philosophy
 - For fun, I like playing basketball, cooking, and taking photography
 
 I am currently exploring classical AI methods for solving [ARC-AGI](https://arcprize.org/arc) problems. More recently, I worked on [anomaly detection](https://arxiv.org/abs/2501.13789) for large physics experiments and competed in an [AI Math Olympiad](https://www.kaggle.com/competitions/ai-mathematical-olympiad-prize). I am also learning how to pre-write, write, and rewrite about [tech, humans vs AI](https://ryanznie.substack.com/).
